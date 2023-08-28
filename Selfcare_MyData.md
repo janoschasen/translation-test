@@ -42,4 +42,3 @@ Bitte geben Sie unten Ihre persönlichen Daten ein.
 ##Kommunikationseinstellungen	
 ##Einwilligungen & Erlaubnisse	
 ##Datenschutz	
-![image](https://github.com/janoschasen/translation-test/assets/2127809/7a5b2ea8-ae37-4c98-9eec-9e80a1a8225f)
