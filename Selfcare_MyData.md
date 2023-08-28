@@ -1,4 +1,4 @@
-#Persönliche Daten	
+#Persönliche Daten
 Bitte geben Sie unten Ihre persönlichen Daten ein.
 **Name** 
   > :user_name:
