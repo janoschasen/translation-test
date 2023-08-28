@@ -2,42 +2,59 @@
 # Persönliche Daten
 Bitte geben Sie unten Ihre persönlichen Daten ein.
 
-Name
+### Name
 Ändern
 
-Geburtsdatum
+### Geburtsdatum
 Ändern
 
-Adresse
+### Adresse
 Ändern
 
-E-Mail-Adresse
+### E-Mail-Adresse
 Ändern
 
-Noch keine E-Mail-Adresse 
+Noch keine E-Mail-Adresse
+
 E-Mail hinzufügen
 
-Keine E-Mail hinzugefügt 
-E-Mail-Adresse noch nicht hinzugefügt Ändern
+Keine E-Mail hinzugefügt
 
-Nicht verifiziert 
-E-Mail-Adresse nicht verifiziert 
+E-Mail-Adresse noch nicht hinzugefügt
+
+Ändern
+
+Nicht verifiziert
+
+E-Mail-Adresse nicht verifiziert
+
 Jetzt bearbeiten/überprüfen
 
-Kontaktrufnummer 
-Ändern Hinzufügen
 
-Kundennummer
+### Kontaktrufnummer
 
-Hotline PIN 
+Ändern
+Hinzufügen
+
+### Kundennummer
+
+
+### Hotline PIN 
+
 Generieren 
+
 Ändern
 
-Meine Anmeldedaten
-Benutzername
+
+## Meine Anmeldedaten
+
+### Benutzername
+
 Ändern
 
-Passwort
+
+### Passwort
+
 Ändern
 
 ## Weitere Einstellungen
