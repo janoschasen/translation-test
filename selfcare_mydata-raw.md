@@ -45,3 +45,7 @@ Passwort
 ## Kommunikationseinstellungen
 ## Einwilligungen & Erlaubnisse
 ## Datenschutz
+
+| KEY | Value |
+| ------------- | ------------- |
+| TEst-key | Übungs-schlüssel |
