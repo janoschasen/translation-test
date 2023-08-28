@@ -1,4 +1,4 @@
-#Persönliche Daten
+#Persönliche Daten#
 Bitte geben Sie unten Ihre persönlichen Daten ein.
 **Name** 
   > :user_name:
@@ -30,15 +30,15 @@ Bitte geben Sie unten Ihre persönlichen Daten ein.
 	> *********
 	`Generieren`
 	`Ändern`
-##Meine Anmeldedaten	
+##Meine Anmeldedaten##	
 **Benutzername**
 	> :user_name:
 	`Ändern`
 **Passwort**
 	> *********
 	`Ändern`
-##Weitere Einstellungen	
-##Zahlungsdaten	
-##Kommunikationseinstellungen	
-##Einwilligungen & Erlaubnisse	
-##Datenschutz	
+##Weitere Einstellungen##
+##Zahlungsdaten##
+##Kommunikationseinstellungen##
+##Einwilligungen & Erlaubnisse##
+##Datenschutz##
